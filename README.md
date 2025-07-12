@@ -1,7 +1,8 @@
 # 👋 Hi, I'm Sabbir Hossain Anik
 
-- 🎓 Computer Science & Engineering student at AIUB
-- 💻 I enjoy coding in C++, Java, Python, PHP, C#, JavaScript
+- 💻 Software Engineer sharing about my journey and learning in tech
+- 🎓  Studied Computer Science & Engineering at American International University-Bangladesh (AIUB)
+- 🛠️ I enjoy coding in C++, Java, Python, PHP, C#, JavaScript
 - 🌱 Currently exploring Laravel and ReactJS
 - ✨ I love building small web apps and learning new frameworks
 
